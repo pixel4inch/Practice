@@ -1,9 +1,12 @@
 import React from 'react'
+import GsapIndex from './Gsap/GsapIndex'
+
+
 
 function App() {
   return (
     <div>
-      <h1 className='text-3xl'>PRACTICE</h1>
+      <GsapIndex/>
     </div>
   )
 }
